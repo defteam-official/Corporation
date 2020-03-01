@@ -1,0 +1,2 @@
+Y:\Student\18ИП12\wsr\DefTeam Inc\Development\Esoft_Corporation\Esoft_Corporation\obj\Debug\Esoft_Corporation.csprojAssemblyReference.cache
+Y:\Student\18ИП12\wsr\DefTeam Inc\Development\Esoft_Corporation\Esoft_Corporation\obj\Debug\Esoft_Corporation.csproj.CoreCompileInputs.cache
